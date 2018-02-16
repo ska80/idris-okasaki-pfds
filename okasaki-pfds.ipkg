@@ -1,0 +1,48 @@
+package okasaki-pfds
+
+sourcedir = src
+
+modules = Queue
+        , BatchedQueue
+        , BankersQueue
+        , PhysicistsQueue
+        , HoodMelvilleQueue
+        , BootstrappedQueue
+        , ImplicitQueue
+
+        , Deque
+        , BankersDeque
+
+        , CatenableList
+        , CatList
+
+        , CatenableDeque
+        , SimpleCatenableDeque
+        , ImplicitCatenableDeque
+
+        , RandomAccessList
+        , BinaryRandomAccessList
+        , SkewBinaryRandomAccessList
+        , AltBinaryRandomAccessList
+
+        , Heap
+        , LeftistHeap
+        , BinomialHeap
+        , SplayHeap
+        , PairingHeap
+        , LazyPairingHeap
+        , SkewBinomialHeap
+        , BootstrapHeap
+
+        , Sortable
+        , BottomUpMergeSort
+
+        , Set
+        , UnbalancedSet
+        , RedBlackSet
+
+        , FiniteMap
+        , Trie
+        , TrieOfTrees
+
+        , OStream
