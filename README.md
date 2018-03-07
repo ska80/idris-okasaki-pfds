@@ -7,13 +7,13 @@ consider it a derivative work, but will make every effort to cease publication
 as the request of any of the original copyright holder(s) or Chris Okasaki.
 
 Any errors introduced by the port were introduced by its authors, and are
-neither the responsibility of nor should poorly reflect on "Purely Function
+neither the responsibility of nor should poorly reflect on "Purely Functional
 Data Structures", its copyright holders, or Chris Okasaki.  Error reports are
 appreciated.
 
 To discourage any action from other copyright claimants, encourage maximum
 distribution, and recognize the essentially shared nature of any work on such
 fundamental data structures, the author(s) have chosen the most permissive of
-licenses CC0, a copy of which should be available in the LICENSE.CC0 file
+licenses--CC0--a copy of which should be available in the LICENSE.CC0 file
 distributed with this work and can be found at
 https://creativecommons.org/publicdomain/zero/1.0/
