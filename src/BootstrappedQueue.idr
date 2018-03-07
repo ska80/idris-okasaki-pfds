@@ -2,6 +2,9 @@ module BootstrappedQueue
 
 import Queue
 
+%default total
+%access private
+
 export
 data BootstrappedQueue a =
   E | Q Int (List a) (BootstrappedQueue (Lazy (List a))) Int (List a)

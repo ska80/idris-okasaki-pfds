@@ -2,6 +2,9 @@ module SimpleCatenableDeque
 
 import CatenableDeque
 
+%default total
+%access private
+
 export
 data SimpleCatDeque : (Type -> Type) -> Type -> Type where
   Shallow : d a -> SimpleCatDeque d a
